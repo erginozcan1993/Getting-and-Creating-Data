@@ -2,7 +2,7 @@ The original data is modified by several process. Training and test sets are mer
 
 First two columns in this data is "Identifiers". "Subject" have the ID and Activity includes activity performs which measurements are taken. 
 
-List of Measurements
+List of Measurements are here:
 tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
